@@ -1,0 +1,35 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+.eclipse
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+gradle.properties
+gradlew
+
+# forge
+CREDITS-fml
+gradlew
+LICENSE-new
+MinecraftForge-Credits
+Paulscode SoundSystem CodecIBXM License
+
+# other
+run
+build.gradle
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew.bat
