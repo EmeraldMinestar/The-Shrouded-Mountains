@@ -1,15 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "tsm",
+  "name": "The Shrouded Mountians",
+  "description": "The Shrouded Mountians mod",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["@Eragonn1490", "@InsertNames"],
+  "credits": "Insert Credits here",
+  "logoFile": "Logo.png",
   "screenshots": [],
   "dependencies": []
 }
