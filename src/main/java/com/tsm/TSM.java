@@ -54,7 +54,7 @@ public class TSM
 
 		config = new Configuration(new File(event.getModConfigurationDirectory(), "TSM/config.txt"));
 
-		//Setup Config File Based Upon Side
+		//Setup Config File Based Upon Side just incase you add specific use conditional config files or things like that
 		clientorserver(event);
 
 		try {

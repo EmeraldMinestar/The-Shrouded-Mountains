@@ -33,3 +33,7 @@ build.gradle
 gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
 gradlew.bat
+eclipse/.recommenders/caches/manual-mappings.json
+eclipse/.recommenders/caches/identified-project-coordinates.json
+eclipse/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/write.lock
+eclipse/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/write.lock
