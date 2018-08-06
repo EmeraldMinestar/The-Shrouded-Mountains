@@ -12,15 +12,24 @@ public class BlockBase extends Block {
 
     protected String name;
 
+<<<<<<< HEAD
+    public BlockBase(Material material, String name) {
+=======
     public BlockBase(String name) {
+>>>>>>> 380566e386d2f4112d443855de98c39bb37241cb
         super(material);
         this.name = name;
         setUnlocalizedName(name);
         setRegistryName(name);
     }
 
+<<<<<<< HEAD
+    public BlockBase(String name) {
+        super(null);
+=======
     public BlockBase(String dirt_mountain, Material material) {
         super(material);
+>>>>>>> 380566e386d2f4112d443855de98c39bb37241cb
     }
 
     public void registerItemModel(Item itemBlock) {
